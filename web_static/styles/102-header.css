@@ -1,0 +1,18 @@
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        /* Responsive styles for the header */
+        height: 60px;
+        padding: 0 10px;
+    }
+}
+
