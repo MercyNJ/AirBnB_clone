@@ -177,6 +177,7 @@ article h3 {
     background-position: center;
     width: 50px;
     height: 50px;
+    alt="Bed Icon";
 }
 
 .bath_icon {
@@ -186,6 +187,7 @@ article h3 {
     background-position: center;
     width: 50px;
     height: 50px;
+    alt="Bath Icon";
 }
 
 .tv_icon {
@@ -195,6 +197,7 @@ article h3 {
     width: 20px;
     height: 20px;
     margin-right: 10px;
+    alt="TV Icon";
 }
 
 .wifi_icon {
@@ -204,6 +207,7 @@ article h3 {
     width: 20px;
     height: 20px;
     margin-right: 10px;
+    alt="WiFi Icon";
 }
 
 .pet_icon {
@@ -213,6 +217,7 @@ article h3 {
     width: 20px;
     height: 20px;
     margin-right: 10px;
+    alt="Pet Icon";
 }
 
 @media (max-width: 768px) {
